@@ -1,4 +1,6 @@
 # React Webpack Minimal
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/GabrielDuarteM/react-webpack-minimal.svg)](https://greenkeeper.io/)
 A minimal boilerplate providing support for React, React Hot Reload and Webpack.
 
 Includes:
